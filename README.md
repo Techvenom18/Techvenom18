@@ -2,7 +2,7 @@
   
 # Hello Dosto 👋
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=⚡I'm+Sumit+Rathore⚡;Aspiring+%26+Software+Engineer;ML%2B+And;DevOps+Enthusiast)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=⚡I'm+Sumit+Rathore⚡;Aspiring+Software+Engineer;B.Tech+CSDS+Student;DSA+%26+DevOps+Enthusiast)](https://git.io/typing-svg)
 
 🎓 Student at Delhi Skill and Entrepreneurship University (DSEU) 2st Year, CSDS | Aspiring Web Developer
 
@@ -30,11 +30,10 @@ I'm a **Developer Advocate** & **Data Analysist** specializing in **Development,
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg
-" alt="React.js" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React.js" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="CPP" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg
-" alt="C Language" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C Language" width="40" height="40"/>
+
 </p>
 
 ### **Cloud & DevOps**
@@ -84,7 +83,7 @@ I'm a **Developer Advocate** & **Data Analysist** specializing in **Development,
 
 ---
 
-## 🌐 Connect With Me
+## 📣 Social Links
 
 <div align="center">
   
