@@ -1,6 +1,6 @@
 <div align="center">
   
-# Hello Dosto 👋
+# Hello Buddy 👋
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=⚡I'm+Sumit+Rathore⚡;Aspiring+Software+Engineer;B.Tech+CSDS+Student;DSA+%26+DevOps+Enthusiast)](https://git.io/typing-svg)
 
