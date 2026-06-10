@@ -2,9 +2,9 @@
   
 # Hello Buddy 👋
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=⚡I'm+Sumit+Rathore⚡;Aspiring+Software+Engineer;B.Tech+CSDS+Student;DSA+%26+DevOps+Enthusiast)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=⚡I'm+Sumit+Rathore⚡;B.Tech+CSDS+Student;Aspiring+Software+Engineer;DSA+%26+ML+Enthusiast)](https://git.io/typing-svg)
 
-🎓 Student at Delhi Skill and Entrepreneurship University (DSEU) 2st Year, CSDS | Aspiring Web Developer
+🎓 Student at Delhi Skill and Entrepreneurship University (DSEU) 3rd Year, CSDS | Aspiring Web Developer || Aspiring ML Engineer
 
 </div>
 
